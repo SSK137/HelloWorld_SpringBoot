@@ -8,7 +8,7 @@ public class HelloWorldSpringBootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(HelloWorldSpringBootApplication.class, args);
-        System.out.println("Welcome to Hellow World");
+        System.out.println("Hello From Bridgelabz");
     }
 
 }
